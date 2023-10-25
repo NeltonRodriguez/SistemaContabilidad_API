@@ -1,6 +1,6 @@
 # SistemaContabilidad_API
 
-API Web Services Publicos usando Django REST Framework y SQLite como gestor de base de datos.
+API usando Django REST Framework y SQLite como gestor de base de datos.
 
 1. Debes de crear un entorno virtual (venv) ==> python3 -m venv venv
 
